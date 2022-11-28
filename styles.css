@@ -51,7 +51,7 @@ section{
     font-weight: bold;
     color: #2E1503;
 }
-.home p{
+.home figcaption{
     color: brown;
     line-height: 1.8;
     margin-bottom: 20px;
@@ -99,7 +99,7 @@ h4{
     font-size: 30px;
     margin-bottom: 15px;
 }
-.words p{
+.words figcaption{
     color: black;
     font-size: 16px;
     line-height: 28px;
@@ -128,6 +128,9 @@ h4{
 .says p{
     color: brown;
 }
+aside{
+    color: brown;
+}
 /* .says{
     align-items: center;
     height: 300px;
@@ -151,7 +154,7 @@ h4{
     font-size: 30px;
     margin-bottom: 25px;
 }
-.sign p{
+.sign figcaption{
     color: palevioletred;
 }
 .btn a{
