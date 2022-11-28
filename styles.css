@@ -60,7 +60,7 @@ p{
     color: brown;
     display: inline-block;
     margin: 3Opx 0;
-    border-radius: 5px;
+    border-radius: 30px;
 }
 .pic{
     width: 45%;
@@ -110,4 +110,17 @@ h4{
 }
 .words p{
     color: black;
+    font-size: 16px;
+    line-height: 28px;
+    margin-bottom: 20px;
+}
+.words a{
+    text-decoration: none;
+    background: brown;
+    font-weight: bold;
+    padding: 10px 18px;
+    color: bisque;
+    display: inline-block;
+    margin: 3Opx 0;
+    border-radius: 30px;
 }
