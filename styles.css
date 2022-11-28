@@ -42,7 +42,7 @@ ul li{
     margin-top: 10%;
 }
 h1{
-    font-size: 40px;
+    font-size: 45px;
     color: brown;
     margin-bottom: 15px;
 }
@@ -54,7 +54,7 @@ p{
 }
 .home a{
     text-decoration: none;
-    background: aqua;
+    background: aquamarine;
     font-weight: bold;
     padding: 10px 18px;
     color: brown;
@@ -75,4 +75,39 @@ img{
     left: 100%;
     bottom: 0;
     border-radius: 100%;
+}
+.books{
+    background-color: bisque;
+    width: 100%;
+    padding: 100px 0px;
+}
+.title h2{
+    color: brown;
+    text-align: center;
+    font-size: 45px;
+    margin: 20px auto;
+}
+.box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 300px;
+}
+.card{
+    height: 300px;
+    width: 300px;
+    background: aquamarine;
+    border-radius: 20px;
+    margin: 15px;
+    position: relative;
+    padding: 20px 35px;
+    text-align: center;
+}
+h4{
+    color: palevioletred;
+    font-size: 30px;
+    margin-bottom: 15px;
+}
+.words p{
+    color: black;
 }
