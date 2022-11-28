@@ -161,7 +161,7 @@ h4{
 .sign p{
     color: palevioletred;
 }
-.btn{
+.btn a{
     text-decoration: none;
     background: brown;
     font-weight: bold;
